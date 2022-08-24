@@ -1,10 +1,6 @@
-### Objective
-
-finn GmbH is branching into the music business and needs a new website. Build it using TypeScript and any framework.
-
 ### Brief
 
-In a fictional world, finn GmbH is branching into the music business and we need a new a website. This website needs to display the top 100 songs based on the iTunes API. This code challenge allows you to choose your own path and lets you flaunt your creative panache and technical skills along the way.
+In a fictional world, we need a new a website. This website needs to display the top 100 songs based on the iTunes API. This code challenge allows you to choose your own path and lets you flaunt your creative panache and technical skills along the way.
 
 ### Tasks
 
@@ -34,17 +30,8 @@ Make sure to include all source code in the repository.
 - Maintainability: is it written in a clean, maintainable way?
 - Testing: is the system adequately tested?
 
-### CodeSubmit
 
-Please organize, design, test and document your code as if it were going into production - then push your changes to the master branch. After you have pushed your code, you may submit the assignment on the assignment page.
-
-All the best and happy coding,
-
-The finn GmbH Team
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 # The Music Library App
 
 
