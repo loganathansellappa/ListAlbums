@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Error Page 1`] = `
+<div
+  class="error"
+>
+  <h1
+    class="errorTitle"
+  >
+    Something Went wrong, refresh the page 
+  </h1>
+</div>
+`;
