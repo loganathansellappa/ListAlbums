@@ -74,7 +74,3 @@ yarn test
 
 ## Demo
 [Demo Video](./DemoVideo/DemoVideo.mp4)
-
-## Note
-
-- This whole app can be written as single component, for readability & understanding  the Router/redux/multiple components were added
